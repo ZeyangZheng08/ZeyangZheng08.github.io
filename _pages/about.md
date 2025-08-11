@@ -16,4 +16,5 @@ I am particularly passionate about autonomous driving. If you are working on rel
 
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=80&t=n&d=87DcMLbNWACw_79Xw-iONNXtufw8345FHDsB-LVtVoQ'></script>
+------
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=100&t=n&d=87DcMLbNWACw_79Xw-iONNXtufw8345FHDsB-LVtVoQ&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
