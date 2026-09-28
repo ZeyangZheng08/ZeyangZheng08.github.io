@@ -15,5 +15,5 @@ I am particularly passionate about autonomous driving. If you are working on rel
 
 <blockquote class="epigraph">
   <p class="epigraph__text">For here we are not afraid to follow truth wherever it may lead, nor to tolerate any error so long as reason is left free to combat it.</p>
-  <p class="epigraph__cite">&mdash; <strong>Thomas Jefferson</strong>, letter to William Roscoe, 1820</p>
+  <p class="epigraph__cite">&mdash; Thomas Jefferson, letter to William Roscoe, 1820</p>
 </blockquote>
