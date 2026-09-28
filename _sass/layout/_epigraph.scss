@@ -1,0 +1,59 @@
+/* ==========================================================================
+   EPIGRAPH (quote on the home page)
+   ========================================================================== */
+
+.epigraph {
+  position: relative;
+  max-width: 34em;
+  margin: 3.5em auto 0;
+  padding: 1.75em 1.5em 0;
+  text-align: center;
+
+  // large decorative opening quote mark
+  &:before {
+    content: "\201C";
+    position: absolute;
+    top: -0.2em;
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: $georgia;
+    font-size: 4.5em;
+    line-height: 1;
+    color: #e57200;
+    opacity: 0.35;
+  }
+
+  blockquote {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: $georgia;
+    font-size: 1.15em;
+    font-style: italic;
+    line-height: 1.7;
+    color: var(--global-text-color);
+  }
+
+  .epigraph__cite {
+    margin: 1.25em 0 0;
+    font-size: $type-size-6;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--global-text-color-light);
+
+    // short accent rule above the attribution
+    &:before {
+      content: "";
+      display: block;
+      width: 2.5em;
+      height: 2px;
+      margin: 0 auto 1em;
+      background: #e57200;
+    }
+
+    strong {
+      font-weight: 600;
+      color: var(--global-text-color);
+    }
+  }
+}
